@@ -1,0 +1,31 @@
+#
+
+colspecs = [(0, 6),
+            (6, 11),
+            (12, 16),
+            (16, 17),
+            (17, 20),
+            (21, 22),
+            (22, 26),
+            (26, 27),
+            (30, 38),
+            (38, 46),
+            (46, 54),
+            (54, 60),
+            (60, 66),
+            (76, 78),
+            (78, 80)]
+
+names = ['ATOM',
+         'serial',
+         'name',
+         'altloc',
+         'resname',
+         'chainid',
+         'resseq',
+         'icode',
+         'x', 'y', 'z',
+         'occupancy',
+         'tempfactor',
+         'element',
+         'charge']
